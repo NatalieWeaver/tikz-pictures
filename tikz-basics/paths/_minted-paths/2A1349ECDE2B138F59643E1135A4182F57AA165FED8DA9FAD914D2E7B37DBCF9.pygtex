@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{c}{\PYGZpc{} Long form}
+    \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+        \PYG{k}{\PYGZbs{}path}\PYG{n+na}{[draw]} (0, 0) \PYGZhy{}\PYGZhy{} (1, 1) \PYGZhy{}\PYGZhy{} (\PYGZhy{}1, 2) \PYGZhy{}\PYGZhy{} cycle;
+    \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+
+    \PYG{c}{\PYGZpc{} Abbreviated form}
+    \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+        \PYG{k}{\PYGZbs{}draw} (0, 0) \PYGZhy{}\PYGZhy{} (1, 1) \PYGZhy{}\PYGZhy{} (\PYGZhy{}1, 2) \PYGZhy{}\PYGZhy{} cycle;
+    \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

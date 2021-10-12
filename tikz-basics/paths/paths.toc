@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Path definition}{1}{}%
+\contentsline {section}{\numberline {2}Actions}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Draw}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Fill}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Shade}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Clip}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Aliased combinations}{3}{}%
