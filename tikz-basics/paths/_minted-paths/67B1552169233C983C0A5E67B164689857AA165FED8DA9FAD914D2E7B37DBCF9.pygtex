@@ -6,6 +6,6 @@
 
     \PYG{c}{\PYGZpc{} Abbreviated form}
     \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
-        \PYG{k}{\PYGZbs{}shade} (0, 0) \PYGZhy{}\PYGZhy{} (1, 1) \PYGZhy{}\PYGZhy{} (\PYGZhy{}1, 2) \PYGZhy{}\PYGZhy{} cycle;
+        \PYG{k}{\PYGZbs{}shade} (0, 0) \PYGZhy{}\PYGZhy{} (1, 1) \PYGZhy{}\PYGZhy{} (\PYGZhy{}1, 2);
     \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
 \end{Verbatim}

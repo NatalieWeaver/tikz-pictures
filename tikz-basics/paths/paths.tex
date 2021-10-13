@@ -65,9 +65,19 @@ Tikz comes with built-in abbreviations for commonly-used combinations of these v
     \path[draw] (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
 \end{tikzpicture}
 
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \draw (0, 0) -- (1, 1) -- (-1, 2);
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \draw (0, 0) -- (1, 1) -- (-1, 2);
+\end{tikzpicture}
+
 \subsection{Fill}
 
-\mlatex{fill} fills in the region on the "inside" of the path, which is required to be closed.
+\mlatex{fill} fills in the region enclosed by the path (which is required to be closed). If the path is not closed, tikz will automatically close it for us.
 
 \begin{minted}{latex}
     % Long form
@@ -85,9 +95,19 @@ Tikz comes with built-in abbreviations for commonly-used combinations of these v
     \path[fill] (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
 \end{tikzpicture}
 
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \fill (0, 0) -- (1, 1) -- (-1, 2);
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \fill (0, 0) -- (1, 1) -- (-1, 2);
+\end{tikzpicture}
+
 \subsection{Shade}
 
-\mlatex{shade} shades the region on the "inside" of the path, which is required to be closed.
+\mlatex{shade} shades the region enclosed by the path (which is required to be closed). If the path is not closed, tikz will automatically close it for us.
 
 \begin{minted}{latex}
     % Long form
@@ -97,17 +117,17 @@ Tikz comes with built-in abbreviations for commonly-used combinations of these v
 
     % Abbreviated form
     \begin{tikzpicture}
-        \shade (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
+        \shade (0, 0) -- (1, 1) -- (-1, 2);
     \end{tikzpicture}
 \end{minted}
 
 \begin{tikzpicture}
-    \path[shade] (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
+    \shade (0, 0) -- (1, 1) -- (-1, 2);
 \end{tikzpicture}
 
 \subsection{Clip}
 
-\mlatex{clip} defines the region where graphics are permitted to appear. Only graphics located on the "inside" of the (closed) path are drawn. Note that Tikz statements are executed sequentially, so the \mlatex{clip} command will only apply to statements below it.
+\mlatex{clip} defines the region where graphics are permitted to appear. Only graphics located inside of the (closed) path are drawn. Note that tikz statements are executed sequentially, so the \mlatex{clip} command will only apply to statements below it.
 
 \begin{minted}{latex}
     % Long form
@@ -118,14 +138,14 @@ Tikz comes with built-in abbreviations for commonly-used combinations of these v
 
     % Abbreviated form
     \begin{tikzpicture}
-        \clip (-1, 0) -- (1, 0) -- (1, 1.5) -- (-1, 1.5) -- cycle;
-        \shade (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
+        \clip (-1, 0) -- (1, 0) -- (1, 1.5) -- (-1, 1.5);
+        \shade (0, 0) -- (1, 1) -- (-1, 2);
     \end{tikzpicture}
 \end{minted}
 
 \begin{tikzpicture}
-    \path[clip] (-1, 0) -- (1, 0) -- (1, 1.5) -- (-1, 1.5) -- cycle;
-    \path[shade] (0, 0) -- (1, 1) -- (-1, 2) -- cycle;
+    \clip (-1, 0) -- (1, 0) -- (1, 1.5) -- (-1, 1.5);
+    \shade (0, 0) -- (1, 1) -- (-1, 2);
 \end{tikzpicture}
 
 \subsection{Aliased combinations}
