@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.31)  13 OCT 2021 23:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.31)  13 OCT 2021 23:32
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -444,15 +444,15 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 \openout4 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/BF67D49F53266A43A5C6D07C06C9926357AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [1
-
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
@@ -482,10 +482,10 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [3]
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/95ACF341518D8FC0751FB04398C3F6D057AA165FED8DA9FAD914D2E7B37DBCF9.pygtex [3])
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/95ACF341518D8FC0751FB04398C3F6D057AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
@@ -513,13 +513,13 @@ runsystem(rm paths.pyg)...executed.
 Here is how much of TeX's memory you used:
  15285 strings out of 479382
  325640 string characters out of 5869369
- 614291 words of memory out of 5000000
+ 614337 words of memory out of 5000000
  32045 multiletter control sequences out of 15000+600000
  408356 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,6n,111p,664b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf (5 pages, 92364 bytes).
+Output written on /Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf (5 pages, 95160 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream

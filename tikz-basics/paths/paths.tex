@@ -183,4 +183,25 @@ The \mlatex{draw} action can be combined with \mlatex{fill} or \mlatex{shade} to
 \end{tikzpicture}
 
 
+\section{Self-intersecting paths}
+
+What happens if we draw to draw and/or fill a path that crosses over itself?
+
+\begin{tikzpicture}
+    \draw (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \fill (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \fill (0, 0) -- (2, 1) -- (2, 0) -- (0, 1) -- (1, -1);
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \shadedraw (0, 0) -- (2, 1) -- (2, 0) -- (0, 1) -- (1, -1);
+\end{tikzpicture}
+
+
 \end{document}

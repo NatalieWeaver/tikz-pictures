@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1634192709 "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.tex" "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf" "paths" 1634192710
-  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.aux" 1634192710 2683 056d58e1e17eff14cdd33f61f0cfb9c0 ""
-  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.tex" 1634192707 5153 9ee6f1d105031177897aa7d3677cfb59 ""
-  "/dev/null" 1634192687 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1634193135 "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.tex" "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf" "paths" 1634193137
+  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.aux" 1634193137 2794 c41007235a68f476172a5e92ec1845a1 ""
+  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.tex" 1634193135 5642 00d21b2c6bb28893594098e4a14312c2 ""
+  "/dev/null" 1634193113 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -151,13 +151,13 @@
   "_minted-paths/FC1430F6E047AF418B975EF7202D035857AA165FED8DA9FAD914D2E7B37DBCF9.pygtex" 1634192709 317 45a1a3f56703d674e2542b04659931fe ""
   "_minted-paths/default-pyg-prefix.pygstyle" 1634015780 7889 3ce1fbc763e3e2c748310f4fe31722b6 ""
   "_minted-paths/default.pygstyle" 1634015780 9275 f200be7fc0b7de2461cca28cb35b1427 ""
-  "paths.aux" 1634192710 2683 056d58e1e17eff14cdd33f61f0cfb9c0 "pdflatex"
-  "paths.tex" 1634192707 5153 9ee6f1d105031177897aa7d3677cfb59 ""
-  "paths.toc" 1634192710 410 98c090e5cc634d1080d89bf173061237 "pdflatex"
+  "paths.aux" 1634193137 2794 c41007235a68f476172a5e92ec1845a1 "pdflatex"
+  "paths.tex" 1634193135 5642 00d21b2c6bb28893594098e4a14312c2 ""
+  "paths.toc" 1634193137 480 c2cb78600758966d9ec504cd12a8fc31 "pdflatex"
   (generated)
-  "paths.toc"
-  "paths.pdf"
-  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.log"
-  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf"
   "paths.log"
+  "paths.toc"
+  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf"
+  "paths.pdf"
   "paths.aux"
+  "/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.log"
