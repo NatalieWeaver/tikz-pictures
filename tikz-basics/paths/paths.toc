@@ -4,4 +4,4 @@
 \contentsline {subsection}{\numberline {2.2}Fill}{2}{}%
 \contentsline {subsection}{\numberline {2.3}Shade}{3}{}%
 \contentsline {subsection}{\numberline {2.4}Clip}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Aliased combinations}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Compound commands}{4}{}%

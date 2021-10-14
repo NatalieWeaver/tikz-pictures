@@ -148,6 +148,39 @@ Tikz comes with built-in abbreviations for commonly-used combinations of these v
     \shade (0, 0) -- (1, 1) -- (-1, 2);
 \end{tikzpicture}
 
-\subsection{Aliased combinations}
+\subsection{Compound commands}
+
+The \mlatex{draw} action can be combined with \mlatex{fill} or \mlatex{shade} to produce the area and perimeter of a shape simultaneously. In the case of \mlatex{\filldraw} we have to pass in some optional arguments to be able to visually distinguish the perimeter from the area. We'll revisit these graphics parameters in a future section. Notice that for an open path, the path is implicitly closed for the area portion but not for the perimeter portion of these compound commands.
+
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \filldraw (0, 0) -- (1, 1) -- (-1, 2);
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \filldraw (0, 0) -- (1, 1) -- (-1, 2);
+\end{tikzpicture}
+
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \filldraw[color=black!80, fill=black!10] (0, 0) -- (1, 1) -- (-1, 2);
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \filldraw[color=black!80, fill=black!10] (0, 0) -- (1, 1) -- (-1, 2);
+\end{tikzpicture}
+
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \shadedraw (0, 0) -- (1, 1) -- (-1, 2);
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \shadedraw (0, 0) -- (1, 1) -- (-1, 2);
+\end{tikzpicture}
+
 
 \end{document}
