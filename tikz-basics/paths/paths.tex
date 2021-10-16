@@ -183,7 +183,7 @@ The \mlatex{draw} action can be combined with \mlatex{fill} or \mlatex{shade} to
 \end{tikzpicture}
 
 
-\section{Self-intersecting paths}
+\subsection{Self-intersecting paths}
 
 Paths can intersect themselves, which can sometimes lead to unexpected behavior with filling or shading. TODO: find a good way to describe the rules for what regions get shaded.
 
@@ -210,8 +210,71 @@ Paths can intersect themselves, which can sometimes lead to unexpected behavior 
         (0, -1) -- (1, -1) -- (1, 2) -- (2, 2) -- (2, -1);
 \end{tikzpicture}
 
+\subsection{TODO}
+
+- use as bounding box
+
 
 \section{Graphics parameters}
+
+We can specify graphics parameters to change the appearance of a rendered path. These parameters, specified as key-value pairs, get passed into the \mlatex{\path} function as optional arguments.
+
+\subsection{Color and opacity}
+
+Colors are specified with different keys depending on if your path is being rendered with \mlatex{draw}, \mlatex{fill}, or \mlatex{shade}.
+
+\subsubsection{Draw}
+
+For paths rendered with \mlatex{draw}, we specify the color of the line using the \mlatex{color} parameter. 
+
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \draw[
+            color=red
+        ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+    \end{tikzpicture}
+\end{minted}
+
+\begin{tikzpicture}
+    \draw[
+        color=red
+    ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+\end{tikzpicture}
+
+\subsubsection{Fill}
+
+For paths rendered with \mlatex{fill}, we specify the color of the fill using the \mlatex{fill} parameter.
+
+\begin{tikzpicture}
+    \fill[
+        fill=red
+    ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+\end{tikzpicture}
+
+\subsubsection{Shade}
+
+\subsection{\mlatex{filldraw} and \mlatex{fillshade}}
+
+\begin{tikzpicture}
+    \filldraw[
+        color=blue,
+        fill=green
+    ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \filldraw[
+        color=red,
+        fill=blue
+    ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    \shade[
+        left color=red, top color=red
+    ] (0, 0) -- (1, 0) -- (1, 1) -- (0, 1) -- cycle;
+\end{tikzpicture}
+
 
 
 \end{document}

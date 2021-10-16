@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.31)  15 OCT 2021 20:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.31)  15 OCT 2021 21:07
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -423,13 +423,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
-)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/default-pyg-prefix.pygstyle) (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/default.pygstyle) (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/227B6185FE6F0888501A2BDF863280CE57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C171F60CD1370D10496AD4887A549B9457AA165FED8DA9FAD914D2E7B37DBCF9.pygtex))
 \tf@toc=\write6
 \openout6 = `paths.toc'.
 
 \openout4 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/default-pyg-prefix.pygstyle) (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/default.pygstyle) (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C9BF95BFC189C5E9DD8A3BC00601A73D57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C9BF95BFC189C5E9DD8A3BC00601A73D57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 2.
 )
@@ -438,12 +443,12 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/86CAA9E2287CB709FCA55A9AC379477657AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A72590FFEA1C8E7499F36F8B2A62E00B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
-\openout4 = `paths.pyg'.
-
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [1
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A72590FFEA1C8E7499F36F8B2A62E00B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
@@ -476,13 +481,13 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/BF67D49F53266A43A5C6D07C06C9926357AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/67B1552169233C983C0A5E67B164689857AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/67B1552169233C983C0A5E67B164689857AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [3]
 \openout4 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout4 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [3]
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/5B1508F219EBB3D0689FB0DE7281244A57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/95ACF341518D8FC0751FB04398C3F6D057AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
@@ -503,32 +508,68 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/FC1430F6E047AF418B975EF7202D035857AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C5B5497942CB37E062623C6B705E736E57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C5B5497942CB37E062623C6B705E736E57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex [4])
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C23D222BBFD9209CA2B41B4CF821B2CB57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex [4])
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C23D222BBFD9209CA2B41B4CF821B2CB57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
  (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A132A9C2A82F475A0B2E148DEC162C7157AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
 \openout3 = `paths.pyg'.
 
- (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/12F9BD7784EC15456EC06DC085162BBF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [5] (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.aux)
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/12F9BD7784EC15456EC06DC085162BBF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C9BF95BFC189C5E9DD8A3BC00601A73D57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [5]
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/BF67D49F53266A43A5C6D07C06C9926357AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/00363E270D8B25F5AC582FB490A6D2EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/60F7D4DABF428B3A6D7D624E3E8F92EF57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout3 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/15056225368F9E37F069F4F0F95EB9DB57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/A072A3258DAC3F6A54CEE0C0CE81F90B57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/227B6185FE6F0888501A2BDF863280CE57AA165FED8DA9FAD914D2E7B37DBCF9.pygtex
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1.
+)
+\openout4 = `paths.pyg'.
+
+ (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/_minted-paths/C171F60CD1370D10496AD4887A549B9457AA165FED8DA9FAD914D2E7B37DBCF9.pygtex) [6] [7] (/Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.aux)
 runsystem(rm paths.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 15295 strings out of 479382
- 326760 string characters out of 5869369
- 616705 words of memory out of 5000000
- 32049 multiletter control sequences out of 15000+600000
- 408356 words of font info for 44 fonts, out of 8000000 for 9000
+ 15342 strings out of 479382
+ 332138 string characters out of 5869369
+ 622364 words of memory out of 5000000
+ 32065 multiletter control sequences out of 15000+600000
+ 408525 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,6n,111p,664b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf (5 pages, 96552 bytes).
+ 108i,6n,111p,664b,494s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on /Users/natalieweaver/Documents/projects/latex/tikz-pictures/tikz-basics/paths/paths.pdf (7 pages, 103705 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 19 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
