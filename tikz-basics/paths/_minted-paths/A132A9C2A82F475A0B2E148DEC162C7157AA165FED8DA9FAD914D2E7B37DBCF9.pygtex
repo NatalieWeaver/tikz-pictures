@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+        \PYG{k}{\PYGZbs{}fillshade} (0, 0) \PYGZhy{}\PYGZhy{} (2, 1) \PYGZhy{}\PYGZhy{} (2, 0) \PYGZhy{}\PYGZhy{} (0, 1);
+    \PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}tikzpicture\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

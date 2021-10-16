@@ -185,23 +185,33 @@ The \mlatex{draw} action can be combined with \mlatex{fill} or \mlatex{shade} to
 
 \section{Self-intersecting paths}
 
-What happens if we draw to draw and/or fill a path that crosses over itself?
+Paths can intersect themselves, which can sometimes lead to unexpected behavior with filling or shading. TODO: find a good way to describe the rules for what regions get shaded.
+
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \fillshade (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
+    \end{tikzpicture}
+\end{minted}
+
 
 \begin{tikzpicture}
-    \draw (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
+    \shadedraw (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
 \end{tikzpicture}
 
-\begin{tikzpicture}
-    \fill (0, 0) -- (2, 1) -- (2, 0) -- (0, 1);
-\end{tikzpicture}
+\begin{minted}{latex}
+    \begin{tikzpicture}
+        \shadedraw (0, 0) -- (3, 0) -- (3, 2) -- (0, 2) --
+            (0, -1) -- (1, -1) -- (1, 3) -- (2, 3) -- (2, -1);
+    \end{tikzpicture}
+\end{minted}
 
 \begin{tikzpicture}
-    \fill (0, 0) -- (2, 1) -- (2, 0) -- (0, 1) -- (1, -1);
+    \shadedraw (0, 0) -- (3, 0) -- (3, 1) -- (0, 1) --
+        (0, -1) -- (1, -1) -- (1, 2) -- (2, 2) -- (2, -1);
 \end{tikzpicture}
 
-\begin{tikzpicture}
-    \shadedraw (0, 0) -- (2, 1) -- (2, 0) -- (0, 1) -- (1, -1);
-\end{tikzpicture}
+
+\section{Graphics parameters}
 
 
 \end{document}

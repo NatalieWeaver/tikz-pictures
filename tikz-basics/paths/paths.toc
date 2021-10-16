@@ -6,3 +6,4 @@
 \contentsline {subsection}{\numberline {2.4}Clip}{4}{}%
 \contentsline {subsection}{\numberline {2.5}Compound commands}{4}{}%
 \contentsline {section}{\numberline {3}Self-intersecting paths}{5}{}%
+\contentsline {section}{\numberline {4}Graphics parameters}{5}{}%
